@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|c:\\users\\welcome\\desktop\\bhavani\\dotnetcore-mvc\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C11F-EB00-47F1-ADF6-E4AD0A349F81}|DotnetCore-MVC.csproj|solutionrelative:repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:13:32.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:13:18.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:12:50.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:12:20.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:12:08.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:11:41.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:11:30.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:11:01.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:10:49.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:10:30.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "Repository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:10:18.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "Repository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:10:03.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repository\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:09:44.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:08:41.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:08:15.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "DTOs\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:08:03.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:07:37.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Welcome\\Desktop\\Bhavani\\DotnetCore-MVC\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:07:24.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
