@@ -1,13 +1,17 @@
-﻿namespace DotnetCore_MVC.Models
+﻿
+namespace DotnetCore_MVC.Models
 {
     //models - entities
     public class Order
     {
         public int OrderId { get; set; }
-        public string Product { get; set; } = string.Empty;
-        public decimal Amount { get; set; }
-
-        public int CustomerId { get; set; }
-        public Customer Customer { get; set; }
+        public string OrderRef { get; set; } = string.Empty;
+        public int? ProductId { get; set; }
+        public int? CustomerId { get; set; }
+        public int CreatedId { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public int? UpdatedId { get; set; }
+        public DateTime? UpdatedDate { get; set; }
+        public virtual Customer? Customer { get; set; }
     }
 }

@@ -22,9 +22,10 @@ namespace DotnetCore_MVC.Services
             return orders.Select(order => new OrderDto
             {
                 OrderId = order.OrderId,
-                Product = order.Product,
-                Amount = order.Amount,
-                CustomerName = order.Customer.Name
+                OrderRef = order.OrderRef,
+                CustomerId = Convert.ToInt32(order.CustomerId),
+                ProductId = Convert.ToInt32(order.ProductId),
+                CustomerName = order.Customer!.CustomerName
             });
         }
 

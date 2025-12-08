@@ -1,6 +1,8 @@
-﻿namespace DotnetCore_MVC.Repository
+﻿using DotnetCore_MVC.Models;
+
+namespace DotnetCore_MVC.Repository
 {
-    public interface ICustomerRepository
+    public interface ICustomerRepository : IGenericRepository<Customer>
     {
     }
 }
