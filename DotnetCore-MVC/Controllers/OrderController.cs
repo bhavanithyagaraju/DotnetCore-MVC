@@ -1,4 +1,6 @@
-﻿using DotnetCore_MVC.DTOs;
+﻿using AutoMapper;
+using DotnetCore_MVC.DTOs;
+using DotnetCore_MVC.Models;
 using DotnetCore_MVC.Services;
 using Microsoft.AspNetCore.Mvc;
 
@@ -6,24 +8,18 @@ namespace DotnetCore_MVC.Controllers
 {
     public class OrderController : Controller
     {
-        /*
-         [
-          {
-            "orderId": 1,
-            "product": "Laptop",
-            "amount": 60000,
-            "customerName": "Bhavani"
-          }
-        ] 
-         */
+        private readonly IMapper _mapper;
         private readonly OrderService _orderService;
-        public OrderController(OrderService orderService)
+        public OrderController(IMapper mapper, OrderService orderService)
         {
+            _mapper = mapper;
             _orderService = orderService;
         }
-        public async Task<IActionResult> GetAllOrders()
+        public async Task<IActionResult> Index()
         {
-            return Ok(await _orderService.GetOrdersWithCustomers());
+            IEnumerable<OrderDto> ordersDto = await _orderService.GetOrdersWithCustomers();
+            var result = _mapper.Map<List<OrderDto>, List<OrderVM>>(ordersDto.ToList());
+            return View(result);
         }
 
         public async Task<IActionResult> AddOrder(OrderDto dto) 

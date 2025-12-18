@@ -10,6 +10,7 @@ namespace DotnetCore_MVC.Mappings
         {
             CreateMap<Customer, CustomerDto>().ReverseMap();
             CreateMap<Order, OrderDto>().ReverseMap();
+            CreateMap<OrderDto, OrderVM>().ReverseMap();
         }        
     }
 }
